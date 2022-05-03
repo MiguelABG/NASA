@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WFUz62yJmk6R1iggHdI8XrFG4rOhUCHvsurE6emylZozqJ5bpk/OlEPTOFlwS54ryXYbCCkcRdb1Qs0LdTGJqg==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\NASA\\NASA\\NASA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
